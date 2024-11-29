@@ -14,5 +14,6 @@ public class Ejercicio_arrays {
         double promedio = suma /(double) numeros.length;
         System.out.println("El promedio es: " + promedio );
  
+        
     }
 }

@@ -8,6 +8,7 @@ public class numerosPares
                 contador++;
             }
         }
+       
         System.out.println("La cantidad de numeros pares es: " + contador );
     }
 }

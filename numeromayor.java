@@ -16,6 +16,7 @@ public class numeroMayor;
         System.out.println("Ingrese el tercer numero");
         int number3 = scanner.nextInt();
         
+       
         if (number1 > number2 && number1 > number3 ){
             System.out.println("El numero mayor es: " + number1);
         } else if (number2 > number3 && number2 > number1){

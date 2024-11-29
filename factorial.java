@@ -11,6 +11,7 @@ public class factorial {
             factorial *= x;
             x++;
         }
+       
         System.out.println("El factorial es: " + factorial);
     }
 }

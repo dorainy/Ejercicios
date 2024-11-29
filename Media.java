@@ -7,6 +7,7 @@ Online Java is a quick and easy tool that helps you to build, compile, test your
 import java.util.Scanner;
 public class Media 
 {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese el primer numero");
@@ -17,6 +18,8 @@ public class Media
         double number3 = scanner.nextDouble();
         double media = (number1 + number2 + number3) /3;
         
+      
+      
         System.out.println("La media de los tres numeros es: " + media);
     }
 }

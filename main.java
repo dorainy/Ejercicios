@@ -15,6 +15,7 @@ public class Main
         System.out.println("la edad es:  " + age);
         System.out.println("La altura es:  "+ height);
         System.out.println("La inicial es: "+ inicialName );
+        
         System.out.println("Es mayor de edad:  "+ isAdult);
     }
 }
